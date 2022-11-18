@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="GUI\BookAddGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\BookEditGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\BookGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\BorrowerAddGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\BorrowerGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\BorrowGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\CopyAddGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\HistoryGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\LoginGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\MainGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\ReservationGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\ReturnGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\SelectBookGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

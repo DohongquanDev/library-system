@@ -1,0 +1,140 @@
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Libarary.exe
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Libarary.deps.json
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Libarary.runtimeconfig.json
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Libarary.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Libarary.pdb
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.csproj.AssemblyReference.cache
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.csproj.GenerateResource.cache
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.AssemblyInfoInputs.cache
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.AssemblyInfo.cs
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.csproj.CoreCompileInputs.cache
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.csproj.CopyComplete
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\refint\Libarary.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.pdb
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.genruntimeconfig.cache
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\ref\Libarary.dll
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Images\login.png
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.LoginGUI.resources
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.MainGUI.resources
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.Properties.Resources.resources
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.BookGUI.resources
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.BookEditGUI.resources
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.BookAddGUI.resources
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.CopyAddGUI.resources
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.BorrowerGUI.resources
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.BorrowerAddGUI.resources
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.BorrowGUI.resources
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.SelectBookGUI.resources
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.ReturnGUI.resources
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Libarary.exe
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\appsettings.json
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Images\login.png
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Libarary.deps.json
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Libarary.runtimeconfig.json
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Libarary.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Libarary.pdb
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Humanizer.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.csproj.AssemblyReference.cache
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.BookAddGUI.resources
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.BookEditGUI.resources
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.BookGUI.resources
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.BorrowerAddGUI.resources
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.BorrowerGUI.resources
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.BorrowGUI.resources
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.CopyAddGUI.resources
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.LoginGUI.resources
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.MainGUI.resources
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.ReturnGUI.resources
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.SelectBookGUI.resources
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.Properties.Resources.resources
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.csproj.GenerateResource.cache
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.AssemblyInfoInputs.cache
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.AssemblyInfo.cs
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.csproj.CoreCompileInputs.cache
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.csproj.CopyComplete
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\refint\Libarary.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.pdb
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.genruntimeconfig.cache
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\ref\Libarary.dll
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.ReservationGUI.resources
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.ReservationGUI.resources
+C:\Users\Dat Lai\Desktop\C#\Project\PJ\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.HistoryGUI.resources
+D:\.net\winform\SE1626_Group2_Project\Libarary\obj\Debug\net6.0-windows\Libarary.GUI.HistoryGUI.resources
